@@ -25,7 +25,7 @@ Adafruit_MPU6050 mpu;
 // -------------------- Firebase Configuration --------------
 #define WIFI_SSID "Ocean134" // Your WiFi SSID
 #define WIFI_PASSWORD "ocean123" // Your WiFi Password
-#define API_KEY "AIzaSyAUEkEPepA8HcZoBp7W6W3bAyLyWcGS4tg" // Firebase API Key
+#define API_KEY "API KEY" // Firebase API Key
 #define DATABASE_URL "https://deliverybox12-7ce37-default-rtdb.asia-southeast1.firebasedatabase.app" // Firebase DB URL
 
 FirebaseData fbdo; // Firebase data object
