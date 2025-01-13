@@ -16,7 +16,7 @@ MFRC522 mfrc522{driver};         // Create MFRC522 instance.
 // Firebase setup
 #define WIFI_SSID "Ocean134"
 #define WIFI_PASSWORD "ocean123"
-#define API_KEY "AIzaSyAUEkEPepA8HcZoBp7W6W3bAyLyWcGS4tg"
+#define API_KEY "API Key"
 #define DATABASE_URL "https://deliverybox12-7ce37-default-rtdb.asia-southeast1.firebasedatabase.app"
 FirebaseData fbdo;
 FirebaseAuth auth;
