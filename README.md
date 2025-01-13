@@ -9,12 +9,12 @@ The system enables comprehensive analysis of delivery patterns, environmental co
 
 ## Components Used  
 - ESP32 Microcontroller: Handles processing and communication.
--Weather Sensors: Monitors environmental factors like temperature and humidity.
--RFID Module: Tracks and logs parcel data.
--GPS Module: Provides real-time location updates.
--Firebase Realtime Database: Stores and retrieves data for analytics.
--MPU6050:Provides Realtime Speed and orientation of Delivery Vehicle.
--Prototyping Tools: Breadboard, jumper wires, and other accessories. 
+- Weather Sensors: Monitors environmental factors like temperature and humidity.
+- RFID Module: Tracks and logs parcel data.
+- GPS Module: Provides real-time location updates.
+- Firebase Realtime Database: Stores and retrieves data for analytics.
+- MPU6050:Provides Realtime Speed and orientation of Delivery Vehicle.
+- Prototyping Tools: Breadboard, jumper wires, and other accessories. 
 
 ## Project Structure  
 - **Source Code**: C++ code for RFID Interfacing and Sensors Interfacing  
