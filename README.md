@@ -6,7 +6,11 @@ under the Ministry of Posts, Government of India.
 The system integrates **IoT technologies** to enhance mail delivery efficiency and transparency through real-time tracking, monitoring, and analytics.
 It features a robust **IoT module for delivery vehicles**, utilizing sensors like **weather sensors**, **RFID**, **GPS**, and **MPU6050** to collect and transmit data to a **Firebase Realtime Database**. 
 The system enables comprehensive analysis of delivery patterns, environmental conditions, and vehicle stability, providing postal authorities with actionable insights via a cloud-based interface.
-
+<p align="center">
+  <img src="https://github.com/OceanBhatnagar/RealTime-Parcel-Tracking-System/blob/main/Project%20Photograph/Circuitry.jpg?raw=true" alt="Real-Time Parcel Tracking System Circuitry" width="700">
+  <br>
+  <em>System Circuitry and Hardware Setup</em>
+</p>
 ## Components Used  
 - ESP32 Microcontroller: Handles processing and communication.
 - Weather Sensors: Monitors environmental factors like temperature and humidity.
